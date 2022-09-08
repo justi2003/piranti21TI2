@@ -1,6 +1,5 @@
 product
 roles
 pre & post conditioning
-plan - driven
 agile proses
 waterfall
